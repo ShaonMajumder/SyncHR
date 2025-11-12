@@ -3,7 +3,7 @@
 
 SyncHR is a secure, scalable, and developer-friendly Employee Management CRUD API, built with Laravel, Vue.js, Docker, and Redis. It demonstrates best practices in performance optimization, API security, and clean architecture for HR systems.
 
-## ✅ Laravel Assessment Submission
+## ✅ Assignment Overview
 
 **Candidate:** Shaon Majumder  
 **Email:** smazoomder@gmail.com  
